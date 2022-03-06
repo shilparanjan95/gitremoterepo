@@ -1,3 +1,8 @@
 adding something from remote repo to commit
 adding changes from remote repo 
 making changes in local repo
+
+adding changes from remote repo
+remote repo changes
+:wq
+
